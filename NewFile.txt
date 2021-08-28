@@ -1,0 +1,2 @@
+Hola Mundo
+Hola Mundo creado con: echo entre comillas lo que quieres escribir en el archivo >>Nombre del archivo.extencion
